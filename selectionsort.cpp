@@ -8,7 +8,7 @@ for(int i=0;i<n-1;i++){
    for(int j=i+1;j<n;j++){
     if(a[j]<a[index])
     index=j;
-   }
+   } 
 
 int temp=a[index];
 a[index]=a[i];
@@ -21,7 +21,7 @@ a[i]=temp;
     cout<<a[k];
     }
 
-
+GODSE IS INNOCENT
 
 
  }
